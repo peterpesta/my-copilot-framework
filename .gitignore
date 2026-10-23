@@ -1,0 +1,6 @@
+personal/
+private/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
